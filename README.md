@@ -12,6 +12,9 @@ FRONTEND_URL
 Frontend .env file
 
 REACT_APP_CLOUD_NAME_CLOUDINARY = 
+install node.js in boath frontend and backend folder
+and run backend command = npm run dev
+frontend command= npm start
 
 Image : https://drive.google.com/drive/folders/1KmY74OYniEodtOVAjNGJv4628HghRbcQ?usp=sharing
 
